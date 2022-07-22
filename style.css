@@ -1,0 +1,29 @@
+body{
+    background-color: lightcoral;
+    padding:20px;
+}
+#score{
+    font-size: 25px;
+    margin-left: -1300px;
+    font-weight: bold;
+    margin-top:30px;
+}
+#timer{
+    font-size: 25px;
+    margin-right: -1300px;
+    font-weight: bold;
+}
+#sktch_to_be_drwn{
+    color: chartreuse;
+    font-size: 30px;
+}
+h1{
+    background-color: lightpink;
+    color:turquoise;
+}
+#sketch{
+    font-size: 30px;
+}
+#confidence{
+    font-size: 30px;
+}
